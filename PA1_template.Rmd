@@ -2,7 +2,9 @@
 title: "Markdown Document for Reproducible Analysis Project 1"
 author: "SK"
 date: "January 8, 2017"
-output: html_document
+output: 
+  html_document:
+    keep_md: true
 ---
 
 This is a markdown document that covers the steps required to complete the Project 1 of Reproducible project. 
